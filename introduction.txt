@@ -1,1 +1,2 @@
-Hello my name Is Tolulope Olugbemi...
+Brief Introduction About Myself
+Hello my name Is Tolulope Olugbemi, I am a 21 Year Fullstack Developer I'm currently a student at the ALX Pathway and I am interested in AI and the new Innovations and technical advancements That help people to build products and solve problems faster, I curently volunteer at ALX Pathway helping my teammates, and I test for FreepikAI and BlackBoxAI
