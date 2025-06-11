@@ -1,2 +1,3 @@
+What I have learned from this course
 I learnt how to create a Repository on GitHub, use git commands to make changes and contribute to remote versions of files on my PC,
 like git push, git init, git pull, git commit and git add, I also learnt how to create a Branch and how to create a Pull Request or PR as it is called
